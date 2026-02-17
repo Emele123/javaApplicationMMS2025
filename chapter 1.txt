@@ -2,7 +2,7 @@
 Chapter 1
 Self-Review Exercises 1.1
  Fill in the blanks in each of the following statements:
- a) Computers process data under the control of sets of instructions called Program. 
+a) Computers process data under the control of sets of instructions called Program. 
 b) The key logical units of the computer are the input unit, output unit, memory unit, arithmetic and logic unit (ALU), secondary storage unit and central processing unit (CPU)
 c) The three types of languages they are machine language, assembly language and high-level language.
 d) The programs that translate high-level language programs into machine language are called Compiler. 
@@ -11,7 +11,7 @@ f) Release software is generally feature complete, (supposedly) bug free and rea
 g) The Wii Remote, as well as many smartphones, use a(n) accelerometer which allows the device to respond to motion. 
 
 1.2 Fill in the blanks in each of the following sentences about the Java environment:
- a) The Java command from the JDK executes a Java application. 
+a) The Java command from the JDK executes a Java application. 
 b) The Javac command from the JDK compiles a Java program. 
 c) A Java source code file must end with the .java file extension. 
 d) When a Java program is compiled, the file produced by the compiler ends with the .class file extension. 
