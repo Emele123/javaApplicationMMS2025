@@ -13,13 +13,17 @@ public class UserInput{
 		System.out.print(" Enter your age: ");
 		int age = scan.nextInt();
 
+        System.out.print(" Enter your gender (M/F: ");
+		char gender = scan.next().CharAt(0);
+		
+		System
 		
 		System.out.printf(" Hello %s, How are you today?%n", fullName);
 		System.out.printf(" Nice meeting you, you are living in %s%n", address);
 		System.out.printf(" %s, you are %d years old", fullName, age);
 		
 		
-	
+	   
 		
 		
 		
